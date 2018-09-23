@@ -8,10 +8,10 @@
   
       ** Ensuring Quality (ENQ)
       
-      *** Requirement Development & Management (RDM) [3]
-      *** Process Quality Assurance (PQA) [3]
-      *** Validation & Verification (VV) [3]
-      *** Peer Reviews (PR) [3]
+        *** Requirement Development & Management (RDM) [3]
+        *** Process Quality Assurance (PQA) [3]
+        *** Validation & Verification (VV) [3]
+        *** Peer Reviews (PR) [3]
       
      ** Engineering & Developing Products (EDP)
      
