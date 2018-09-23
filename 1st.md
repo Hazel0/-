@@ -1,5 +1,6 @@
 1.  CMM最新标准：CMMI V2.0
-  ![组织成熟度水平]（）
+
+  ![组织成熟度水平](https://github.com/dengmengqiu/learning.gitbio/blob/master/img/CMMI.png)
   
   该模型分为4个类别，9个能力和20个过程域如下（（）中的首字母缩略词，[]中的最高成熟度水平）：
 *  干  
