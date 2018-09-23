@@ -5,38 +5,38 @@
   该模型分为4个类别，9个能力和20个过程域如下（（）中的首字母缩略词，[]中的最高成熟度水平）：
   
 * Doing
-  +  Ensuring Quality (ENQ)
-    -  Requirement Development & Management (RDM) [3]
-    -  Process Quality Assurance (PQA) [3]
-    -  Validation & Verification (VV) [3]
-    -  Peer Reviews (PR) [3]
-  +  Engineering & Developing Products (EDP)
-    - Technical Solution (TS) [3]
-    - Product Integration (PI) [3]
-  +  Selecting & Managing Suppliers (SMS)
-    - Supplier Agreement Management [4]
++   Ensuring Quality (ENQ)
+-   Requirement Development & Management (RDM) [3]
+-  Process Quality Assurance (PQA) [3]
+-  Validation & Verification (VV) [3]
+-  Peer Reviews (PR) [3]
++   Engineering & Developing Products (EDP)
+-  Technical Solution (TS) [3]
+-  Product Integration (PI) [3]
++    Selecting & Managing Suppliers (SMS)
+-  Supplier Agreement Management [4]
 *  Managing
-  +   Planning & Managing Work (PMW)
-    -  Estimating (EST) [3]
-    -  Planning (PLAN) [4]
-   - Monitoring & Control (MC) [3]
-  +  Managing Business Resilience (MBR)
-    - Risk & Opportunity Management (RSK) [3]
-  +  Managing the Workforce (MWF)
-    -  Organizational Training (OT) [3]
++    Planning & Managing Work (PMW)
+-  Estimating (EST) [3]
+-  Planning (PLAN) [4]
+-  Monitoring & Control (MC) [3]
++  Managing Business Resilience (MBR)
+- Risk & Opportunity Management (RSK) [3]
++  Managing the Workforce (MWF)
+-  Organizational Training (OT) [3]
 * Enabling
-  +  Supporting Implementation (SI)
-    -  Causal Analysis & Resolution (CAR) [5]
-    - Decision Analysis & Resolution (DAR) [3]
-    - Configuration Management (CM) [2]
++  Supporting Implementation (SI)
+-  Causal Analysis & Resolution (CAR) [5]
+- Decision Analysis & Resolution (DAR) [3]
+- Configuration Management (CM) [2]
 *  Improving
-  +  Building & Sustaining Capability (BSC)
-    -  Governance (GOV) [4]
-    -  Implementation Infrastructure (II) [3]
-  +  Improving Performance (IMP)
-    -  Process Management (PCM) [4]
-    -  Process Asset Development (PAD) [3]
-    -  Managing Performance & Measurement (MPM) [5]
++  Building & Sustaining Capability (BSC)
+-  Governance (GOV) [4]
+-  Implementation Infrastructure (II) [3]
++  Improving Performance (IMP)
+-  Process Management (PCM) [4]
+-  Process Asset Development (PAD) [3]
+-  Managing Performance & Measurement (MPM) [5]
 *  干  
   **   确保质量（ENQ） 
     ***   需求开发与管理（RDM）[3] 
