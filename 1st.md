@@ -6,41 +6,29 @@
   
 * Doing
   +  Ensuring Quality (ENQ)
-  
     -  Requirement Development & Management (RDM) [3]
     -  Process Quality Assurance (PQA) [3]
     -  Validation & Verification (VV) [3]
     -  Peer Reviews (PR) [3]
-    
   +  Engineering & Developing Products (EDP)
-  
     -  Technical Solution (TS) [3]
-    -  Product Integration (PI) [3]
-    
+    -  Product Integration (PI) [3]  
   +  Selecting & Managing Suppliers (SMS)
-  
-    -  Supplier Agreement Management [4]
-    
+    -  Supplier Agreement Management [4]   
 *  Managing
-
   +  Planning & Managing Work (PMW)
     -  Estimating (EST) [3]
     -  Planning (PLAN) [4]
-    -  Monitoring & Control (MC) [3]
-    
+    -  Monitoring & Control (MC) [3]   
   +  Managing Business Resilience (MBR) 
-    - Risk & Opportunity Management (RSK) [3]
-    
+    - Risk & Opportunity Management (RSK) [3]    
   +  Managing the Workforce (MWF)
-    -  Organizational Training (OT) [3]
-    
+    -  Organizational Training (OT) [3]    
 *  Enabling
-
   +  Supporting Implementation (SI)
     -  Causal Analysis & Resolution (CAR) [5]
     -  Decision Analysis & Resolution (DAR) [3]
-    -  Configuration Management (CM) [2]
-    
+    -  Configuration Management (CM) [2]  
 *  Improving
   +  Building & Sustaining Capability (BSC)
     -  Governance (GOV) [4]
