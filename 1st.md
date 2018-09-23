@@ -5,7 +5,9 @@
   该模型分为4个类别，9个能力和20个过程域如下（（）中的首字母缩略词，[]中的最高成熟度水平）：
   
 * Doing
+
 **  Ensuring Quality (ENQ)
+
 ***   Requirement Development & Management (RDM) [3]
 *** Process Quality Assurance (PQA) [3]
 *** Validation & Verification (VV) [3]
