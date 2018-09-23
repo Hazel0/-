@@ -1,5 +1,9 @@
 1.  CMM最新标准：CMMI V2.0
+
   The model is divided into 4 categories, 9 capabilities and 20 process areas as follows (acronyms in (), highest maturity level in []):
+  
+  该模型分为4个类别，9个能力和20个过程域如下（（）中的首字母缩略词，[]中的最高成熟度水平）：
+  
   * Doing
       ** Ensuring Quality (ENQ)
       *** Requirement Development & Management (RDM) [3]
