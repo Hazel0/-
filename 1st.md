@@ -5,33 +5,37 @@
   该模型分为4个类别，9个能力和20个过程域如下（（）中的首字母缩略词，[]中的最高成熟度水平）：
   
 * Doing
-  +    Ensuring Quality (ENQ)
+  +  Ensuring Quality (ENQ)
   
    -  Requirement Development & Management (RDM) [3]
    -  Process Quality Assurance (PQA) [3]
    -  Validation & Verification (VV) [3]
    -  Peer Reviews (PR) [3]
    
-  +    Engineering & Developing Products (EDP)
+  +  Engineering & Developing Products (EDP)
   
    -  Technical Solution (TS) [3]
    -  Product Integration (PI) [3]  
    
-  +    Selecting & Managing Suppliers (SMS)
+  +  Selecting & Managing Suppliers (SMS)
   
    -  Supplier Agreement Management [4]   
 *  Managing
 
-  +   Planning & Managing Work (PMW)
+  +  Planning & Managing Work (PMW)
   
    -  Estimating (EST) [3]
    -  Planning (PLAN) [4]
    -  Monitoring & Control (MC) [3]   
    
-  +    Managing Business Resilience (MBR) 
-    - Risk & Opportunity Management (RSK) [3]    
-  +    Managing the Workforce (MWF)
-    -  Organizational Training (OT) [3]    
+  +  Managing Business Resilience (MBR) 
+   
+   - Risk & Opportunity Management (RSK) [3]  
+   
+  +   Managing the Workforce (MWF)
+  
+   -  Organizational Training (OT) [3] 
+   
 *  Enabling
   +    Supporting Implementation (SI)
     -  Causal Analysis & Resolution (CAR) [5]
